@@ -31,6 +31,9 @@ See the man page for additional details.
 #### Keyboard
 Action      | Key Combination
 ---         | ---
+Zoom In     | `alt` + `shift` + `M`
+Zoom Out    | `alt` + `shift` + `L`
+Reset Zoom  | `alt` + `shift` + `O`
 Scroll up   | `alt` + `arrow up`
 Scroll down | `alt` + `arrow down`
 
