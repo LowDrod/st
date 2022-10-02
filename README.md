@@ -45,4 +45,3 @@ Scroll |  `mouse wheel`
 ## Credits
 
 * Forked from [https://st.suckless.org/](https://st.suckless.org/)
-* Based on Aurélien APTEL `<aurelien dot aptel at gmail dot com>` bt source code.
